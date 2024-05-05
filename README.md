@@ -1,0 +1,2 @@
+# new.css
+css
